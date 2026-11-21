@@ -62,6 +62,7 @@ Also: [SafeByte](https://github.com/b4d33r/SafeByte) (CLI password manager with 
 ## 🏆 Certifications & distinctions
 
 - 🥇 **1st place CTF**, NetCom Days 7.0 (Web, Cryptography, Forensics)
+- 🌍 **30+ CTF competitions**, including 23 international events on [CTFtime](https://ctftime.org/team/360737) (2024 – 2025): ASIS CTF Finals (73rd), SECCON, GlacierCTF, LakeCTF, LA CTF and WorldWide CTF
 - 🎯 CTF designer and organizer, NetCom Days 6.0
 - 🛡️ **[TryHackMe](https://tryhackme.com/p/b4d33r) top 3%**: CompTIA Pentest+ and Jr Penetration Tester paths, Web Fundamentals
 - Cisco: CCNA (Switching, Routing and Wireless Essentials), Network Security, Introduction to Cybersecurity
@@ -78,4 +79,5 @@ Arabic (native) · French (fluent) · English (fluent)
 - 📧 [jakoutbadr20@gmail.com](mailto:jakoutbadr20@gmail.com)
 - 🔗 [linkedin.com/in/badr-jakout](https://www.linkedin.com/in/badr-jakout/)
 - 🛡️ [TryHackMe: b4d33r](https://tryhackme.com/p/b4d33r) (top 3%)
+- 🚩 [CTFtime: b4d33r](https://ctftime.org/team/360737)
 - 🐙 [github.com/b4d33r](https://github.com/b4d33r)
